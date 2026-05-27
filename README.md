@@ -6,6 +6,8 @@ This repository contains web assets for the Sevenary project.
 <img width="511" height="609" alt="Hero_image_2" src="https://github.com/user-attachments/assets/01839872-a179-4686-b52c-a3933fb5279b" />
 <img width="511" height="609" alt="Hero_image_1" src="https://github.com/user-attachments/assets/18e3112e-aea3-40b4-92df-6cdcd1a91420" />
 <img width="2580" height="1452" alt="sevenGrade" src="https://github.com/user-attachments/assets/243ec0ed-5d61-4925-8d78-950ff5fccec8" />
+<img width="1721" height="968" alt="eightGrade" src="https://github.com/user-attachments/assets/36606821-79ff-403a-b27c-a6a69e23d38b" />
+
 
 
 
