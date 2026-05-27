@@ -14,6 +14,7 @@ This repository contains web assets for the Sevenary project.
 
 
 
+
 Sevenary Web Assets include static resources such as images, fonts, stylesheets, scripts, and other front-end files required by Sevenary applications.
 
 ## Structure
