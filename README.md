@@ -4,7 +4,8 @@ This repository contains web assets for the Sevenary project.
 
 ## Overview
 <img width="511" height="609" alt="Hero_image_2" src="https://github.com/user-attachments/assets/01839872-a179-4686-b52c-a3933fb5279b" />
-<img width="511" height="609" alt="Hero_image_1" src="https://github.com/user-attachments/assets/a4a35422-16e5-43a5-a5b9-f3c9fb6b9220" />
+<img width="511" height="609" alt="Hero_image_1" src="https://github.com/user-attachments/assets/18e3112e-aea3-40b4-92df-6cdcd1a91420" />
+
 
 Sevenary Web Assets include static resources such as images, fonts, stylesheets, scripts, and other front-end files required by Sevenary applications.
 
